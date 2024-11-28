@@ -77,3 +77,6 @@ Welcome to the **ANTI SEVEN Hotel Booking System**, a simple console-based appli
 - Add support for storing data in a database.
 
 **Happy Booking!**
+
+
+https://lucid.app/lucidchart/f2b27e9c-f24f-44cf-a4a4-5a5aba4b461a/edit?viewport_loc=-2347%2C-140%2C3046%2C1325%2C0_0&invitationId=inv_65eb562f-6cc3-4089-a04f-0e0d511cd508
